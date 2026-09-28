@@ -1,3 +1,7 @@
+##live demo
+studentintershipportal-production-1844.up.railway.app
+
+
 # Student Internship & Skill Tracking Portal
 
 A comprehensive, centralized academic-industry platform designed for academic departments to track student technical skills, internship company engagements, applications, certificates, and completion verification.
