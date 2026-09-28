@@ -1,0 +1,6 @@
+{
+  "name": "Student Internship & Skill Tracking Portal",
+  "description": "Centralized portal for tracking student technical skills, internship applications, company opportunities, certificates, and completion status with full MySQL relational database support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
