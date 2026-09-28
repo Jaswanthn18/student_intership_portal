@@ -1,8 +1,11 @@
-##live demo
-studentintershipportal-production-1844.up.railway.app
 
 
 # Student Internship & Skill Tracking Portal
+## 🚀 Live Demo
+
+**Student Internship & Skill Tracking Portal:**
+https://studentintershipportal-production-1844.up.railway.app/
+
 
 A comprehensive, centralized academic-industry platform designed for academic departments to track student technical skills, internship company engagements, applications, certificates, and completion verification.
 
